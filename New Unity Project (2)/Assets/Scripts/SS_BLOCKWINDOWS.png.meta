@@ -1,0 +1,947 @@
+fileFormatVersion: 2
+guid: 016a3c15d095564499556ca656993ffb
+timeCreated: 1520222129
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SS_BLOCKWINDOWS_0
+    21300002: SS_BLOCKWINDOWS_1
+    21300004: SS_BLOCKWINDOWS_2
+    21300006: SS_BLOCKWINDOWS_3
+    21300008: SS_BLOCKWINDOWS_4
+    21300010: SS_BLOCKWINDOWS_5
+    21300012: SS_BLOCKWINDOWS_6
+    21300014: SS_BLOCKWINDOWS_7
+    21300016: SS_BLOCKWINDOWS_8
+    21300018: SS_BLOCKWINDOWS_9
+    21300020: SS_BLOCKWINDOWS_10
+    21300022: SS_BLOCKWINDOWS_11
+    21300024: SS_BLOCKWINDOWS_12
+    21300026: SS_BLOCKWINDOWS_13
+    21300028: SS_BLOCKWINDOWS_14
+    21300030: SS_BLOCKWINDOWS_15
+    21300032: SS_BLOCKWINDOWS_16
+    21300034: SS_BLOCKWINDOWS_17
+    21300036: SS_BLOCKWINDOWS_18
+    21300038: SS_BLOCKWINDOWS_19
+    21300040: SS_BLOCKWINDOWS_20
+    21300042: SS_BLOCKWINDOWS_21
+    21300044: SS_BLOCKWINDOWS_22
+    21300046: SS_BLOCKWINDOWS_23
+    21300048: SS_BLOCKWINDOWS_24
+    21300050: SS_BLOCKWINDOWS_25
+    21300052: SS_BLOCKWINDOWS_26
+    21300054: SS_BLOCKWINDOWS_27
+    21300056: SS_BLOCKWINDOWS_28
+    21300058: SS_BLOCKWINDOWS_29
+    21300060: SS_BLOCKWINDOWS_30
+    21300062: SS_BLOCKWINDOWS_31
+    21300064: SS_BLOCKWINDOWS_32
+    21300066: SS_BLOCKWINDOWS_33
+    21300068: SS_BLOCKWINDOWS_34
+    21300070: SS_BLOCKWINDOWS_35
+    21300072: SS_BLOCKWINDOWS_36
+    21300074: SS_BLOCKWINDOWS_37
+    21300076: SS_BLOCKWINDOWS_38
+    21300078: SS_BLOCKWINDOWS_39
+    21300080: SS_BLOCKWINDOWS_40
+    21300082: SS_BLOCKWINDOWS_41
+    21300084: SS_BLOCKWINDOWS_42
+    21300086: SS_BLOCKWINDOWS_43
+    21300088: SS_BLOCKWINDOWS_44
+    21300090: SS_BLOCKWINDOWS_45
+    21300092: SS_BLOCKWINDOWS_46
+    21300094: SS_BLOCKWINDOWS_47
+    21300096: SS_BLOCKWINDOWS_48
+    21300098: SS_BLOCKWINDOWS_49
+    21300100: SS_BLOCKWINDOWS_50
+    21300102: SS_BLOCKWINDOWS_51
+    21300104: SS_BLOCKWINDOWS_52
+    21300106: SS_BLOCKWINDOWS_53
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SS_BLOCKWINDOWS_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 3627
+        width: 165
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SS_BLOCKWINDOWS_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 3631
+        width: 123
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SS_BLOCKWINDOWS_2
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 3631
+        width: 151
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SS_BLOCKWINDOWS_3
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 3631
+        width: 135
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SS_BLOCKWINDOWS_4
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 3627
+        width: 150
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SS_BLOCKWINDOWS_5
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 3631
+        width: 106
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SS_BLOCKWINDOWS_6
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 3631
+        width: 217
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SS_BLOCKWINDOWS_7
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 3627
+        width: 165
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SS_BLOCKWINDOWS_8
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 3631
+        width: 119
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SS_BLOCKWINDOWS_9
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 3631
+        width: 103
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SS_BLOCKWINDOWS_10
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 3627
+        width: 152
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SS_BLOCKWINDOWS_11
+      rect:
+        serializedVersion: 2
+        x: 3417
+        y: 3627
+        width: 115
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SS_BLOCKWINDOWS_12
+      rect:
+        serializedVersion: 2
+        x: 3553
+        y: 3631
+        width: 103
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SS_BLOCKWINDOWS_13
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 3627
+        width: 135
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SS_BLOCKWINDOWS_14
+      rect:
+        serializedVersion: 2
+        x: 3824
+        y: 3631
+        width: 103
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SS_BLOCKWINDOWS_15
+      rect:
+        serializedVersion: 2
+        x: 3976
+        y: 3631
+        width: 214
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SS_BLOCKWINDOWS_16
+      rect:
+        serializedVersion: 2
+        x: 4190
+        y: 3627
+        width: 164
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SS_BLOCKWINDOWS_17
+      rect:
+        serializedVersion: 2
+        x: 4371
+        y: 3631
+        width: 123
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SS_BLOCKWINDOWS_18
+      rect:
+        serializedVersion: 2
+        x: 4507
+        y: 3631
+        width: 106
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SS_BLOCKWINDOWS_19
+      rect:
+        serializedVersion: 2
+        x: 4626
+        y: 3627
+        width: 148
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SS_BLOCKWINDOWS_20
+      rect:
+        serializedVersion: 2
+        x: 6327
+        y: 3627
+        width: 148
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SS_BLOCKWINDOWS_21
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 3631
+        width: 119
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SS_BLOCKWINDOWS_22
+      rect:
+        serializedVersion: 2
+        x: 6631
+        y: 3631
+        width: 107
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SS_BLOCKWINDOWS_23
+      rect:
+        serializedVersion: 2
+        x: 6755
+        y: 3631
+        width: 106
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SS_BLOCKWINDOWS_24
+      rect:
+        serializedVersion: 2
+        x: 6878
+        y: 3631
+        width: 139
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SS_BLOCKWINDOWS_25
+      rect:
+        serializedVersion: 2
+        x: 7072
+        y: 3631
+        width: 217
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SS_BLOCKWINDOWS_26
+      rect:
+        serializedVersion: 2
+        x: 7289
+        y: 3627
+        width: 164
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SS_BLOCKWINDOWS_27
+      rect:
+        serializedVersion: 2
+        x: 7470
+        y: 3631
+        width: 121
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SS_BLOCKWINDOWS_28
+      rect:
+        serializedVersion: 2
+        x: 7605
+        y: 3631
+        width: 106
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SS_BLOCKWINDOWS_29
+      rect:
+        serializedVersion: 2
+        x: 7725
+        y: 3627
+        width: 147
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SS_BLOCKWINDOWS_30
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 3368
+        width: 78
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SS_BLOCKWINDOWS_31
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 3368
+        width: 74
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SS_BLOCKWINDOWS_32
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 3368
+        width: 86
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SS_BLOCKWINDOWS_33
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 3368
+        width: 45
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SS_BLOCKWINDOWS_34
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 3368
+        width: 69
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SS_BLOCKWINDOWS_35
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 3368
+        width: 78
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SS_BLOCKWINDOWS_36
+      rect:
+        serializedVersion: 2
+        x: 3890
+        y: 3372
+        width: 70
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SS_BLOCKWINDOWS_37
+      rect:
+        serializedVersion: 2
+        x: 3964
+        y: 3368
+        width: 86
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SS_BLOCKWINDOWS_38
+      rect:
+        serializedVersion: 2
+        x: 4059
+        y: 3368
+        width: 82
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SS_BLOCKWINDOWS_39
+      rect:
+        serializedVersion: 2
+        x: 4141
+        y: 3368
+        width: 176
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SS_BLOCKWINDOWS_40
+      rect:
+        serializedVersion: 2
+        x: 4334
+        y: 3372
+        width: 70
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SS_BLOCKWINDOWS_41
+      rect:
+        serializedVersion: 2
+        x: 7001
+        y: 3368
+        width: 62
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SS_BLOCKWINDOWS_42
+      rect:
+        serializedVersion: 2
+        x: 7071
+        y: 3368
+        width: 62
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SS_BLOCKWINDOWS_43
+      rect:
+        serializedVersion: 2
+        x: 7137
+        y: 3368
+        width: 74
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SS_BLOCKWINDOWS_44
+      rect:
+        serializedVersion: 2
+        x: 7215
+        y: 3368
+        width: 90
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SS_BLOCKWINDOWS_45
+      rect:
+        serializedVersion: 2
+        x: 7309
+        y: 3368
+        width: 148
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SS_BLOCKWINDOWS_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1926
+        width: 1617
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SS_BLOCKWINDOWS_47
+      rect:
+        serializedVersion: 2
+        x: 3195
+        y: 1922
+        width: 1624
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SS_BLOCKWINDOWS_48
+      rect:
+        serializedVersion: 2
+        x: 6549
+        y: 1880
+        width: 1623
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SS_BLOCKWINDOWS_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 957
+        width: 1617
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SS_BLOCKWINDOWS_50
+      rect:
+        serializedVersion: 2
+        x: 3150
+        y: 51
+        width: 1628
+        height: 1369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SS_BLOCKWINDOWS_51
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 72
+        width: 1623
+        height: 1360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SS_BLOCKWINDOWS_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 471
+        width: 1617
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SS_BLOCKWINDOWS_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1617
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
